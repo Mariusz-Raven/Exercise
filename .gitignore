@@ -1,3 +1,5 @@
 idea/*
 out/*
 *.iml
+/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml
+/.idea/modules.xml

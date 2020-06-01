@@ -1,7 +1,7 @@
 package extra;
 
 public abstract class Car {
-
+// car
     protected String procuder;
     protected String model;
     protected String color;
